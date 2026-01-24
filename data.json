@@ -1,0 +1,567 @@
+{
+  "groups": [
+    {
+      "id": "1",
+      "name": "Inkerebutsi",
+      "sold": 50050388745,
+      "late": 300,
+      "absence": 1000,
+      "location": "Muha,Kanyosha",
+      "meet": "Mois",
+      "status": "Active",
+      "members": 7,
+      "females": 4
+    },
+    {
+      "id": "2",
+      "name": "Abahizi",
+      "location": "Mukaza,Rohero",
+      "status": "Inactive",
+      "meet": "Semaine",
+      "members": 2,
+      "sold": 600000,
+      "late": 500,
+      "absence": 1000,
+      "females": 1
+    },
+    {
+      "id": "3",
+      "name": "Abanyamwete",
+      "location": "Muha,Kanyosha",
+      "meet": "Semaine",
+      "females": 1,
+      "members": 1,
+      "late": 300,
+      "absence": 1000,
+      "status": "Active",
+      "sold": 1030000
+    },
+    {
+      "id": "74ea",
+      "name": "Abadasigana",
+      "location": "Kanyosha",
+      "meet": "Semaine",
+      "status": "Active",
+      "sold": 300000,
+      "late": 1000,
+      "absence": 1500,
+      "members": 0,
+      "females": 0
+    }
+  ],
+  "credits": [
+    {
+      "requester": "Jean Pierre",
+      "id": "1",
+      "dateE": "12/05/2025",
+      "dateR": "2025-05-12",
+      "motif": "Agriculture",
+      "amount": 100000,
+      "status": "En cours de remboursement",
+      "group": 1
+    },
+    {
+      "requester": "Jean Bernard",
+      "id": "2",
+      "dateE": "12/05/2025",
+      "dateR": "12/11/2025",
+      "motif": "Agriculture",
+      "amount": 200000,
+      "status": "En attente",
+      "group": 2
+    },
+    {
+      "requester": "Jean Berchmas",
+      "id": "3",
+      "dateE": "12/05/2025",
+      "dateR": "12/07/2025",
+      "motif": "CommerceN",
+      "amount": 100000,
+      "status": "Débloqué",
+      "group": 3
+    },
+    {
+      "requester": "Jean Jaque",
+      "id": "4",
+      "dateE": "12/05/2025",
+      "dateR": "12/08/2025",
+      "motif": "CommerceC",
+      "amount": 100000,
+      "status": "Débloqué",
+      "group": 1
+    },
+    {
+      "requester": "Jean de Dieu",
+      "id": "5",
+      "dateE": "2025/12/05",
+      "dateR": "2026/01/05",
+      "motif": "CommerceC",
+      "amount": 200000,
+      "status": "Débloqué",
+      "group": 2
+    },
+    {
+      "id": "229a",
+      "requester": "Irakiza Laurette",
+      "amount": 10000,
+      "dateE": "2026/22/01",
+      "dateR": "2026/22/02",
+      "motif": "CommerceC",
+      "status": "Débloqué"
+    },
+    {
+      "id": "efb7",
+      "requester": "Irakiza Laurette",
+      "amount": 50000,
+      "dateE": "2026/22/01",
+      "dateR": "2026/22/02",
+      "motif": "CommerceC",
+      "status": "Débloqué"
+    },
+    {
+      "id": "8f43",
+      "requester": "Irakiza Laurette",
+      "amount": 50000,
+      "dateE": "2026/22/01",
+      "dateR": "2026/22/02",
+      "motif": "CommerceC",
+      "status": "En attente"
+    },
+    {
+      "id": "0ef9",
+      "amount": 554535,
+      "dateE": "543453",
+      "dateR": "5343453",
+      "status": "Débloqué",
+      "requester": "Nkurunziza Josephine",
+      "motif": "Voyage"
+    }
+  ],
+  "savings": [
+    {
+      "owner": "Jean Pierre",
+      "date": "15/06/2025",
+      "amount": 50000,
+      "status": "Confirmé",
+      "id": "006f",
+      "term": 1
+    },
+    {
+      "owner": "Kamikazi Diella",
+      "date": "15/06/2025",
+      "amount": 300000,
+      "status": "Confirmé",
+      "id": "cfe3",
+      "term": 1
+    },
+    {
+      "owner": "Jean Bernard",
+      "date": "15/06/2025",
+      "amount": 30000,
+      "status": "Confirmé",
+      "id": "4c89",
+      "term": 1
+    },
+    {
+      "owner": "Mugisha Arlene",
+      "date": "15/06/2025",
+      "amount": 250000,
+      "status": "Confirmé",
+      "id": "2735",
+      "term": 1
+    },
+    {
+      "owner": "Nkurunziza Josephine",
+      "date": "15/06/2025",
+      "amount": 50000,
+      "status": "Confirmé",
+      "id": "c127",
+      "term": 1
+    },
+    {
+      "owner": "Jean Berchmas",
+      "date": "15/06/2025",
+      "amount": 100000,
+      "status": "Confirmé",
+      "id": "4738",
+      "term": 1
+    },
+    {
+      "id": "1802",
+      "owner": "Irakiza Laurette",
+      "amount": 50000,
+      "date": "2026/22/01",
+      "status": "Echoué",
+      "term": 2
+    },
+    {
+      "id": "1b74",
+      "amount": 10000,
+      "date": "15/06/2026",
+      "status": "Confirmé",
+      "owner": "Mugisha Arlene",
+      "term": 2
+    },
+    {
+      "id": "9328",
+      "amount": 50000,
+      "date": "20/12/2026",
+      "status": "Echoué",
+      "owner": "Kamikazi Diella",
+      "term": 1
+    },
+    {
+      "id": "6b04",
+      "amount": 10000,
+      "date": "20/12/2026",
+      "status": "Confirmé",
+      "owner": "Kamikazi Diella",
+      "term": 1
+    },
+    {
+      "id": "7d91",
+      "amount": 1000,
+      "date": "20/12/2026",
+      "status": "Confirmé",
+      "owner": "Nkurunziza Josephine",
+      "term": 2
+    },
+    {
+      "id": "b80c",
+      "term": 1,
+      "amount": 20000,
+      "date": "5466465",
+      "status": "Confirmé",
+      "owner": "Irakiza Laurette"
+    }
+  ],
+  "refunds": [
+    {
+      "name": "Jean Pierre",
+      "date": "12/11/2025",
+      "amount": 100000,
+      "status": "En Retard",
+      "id": "8e7a"
+    },
+    {
+      "name": "Jean de Dieu",
+      "date": "12/11/2025",
+      "amount": 100000,
+      "status": "En cours",
+      "id": "b0ca"
+    },
+    {
+      "name": "Jean Jaque",
+      "date": "12/08/2025",
+      "amount": 100000,
+      "status": "Terminé",
+      "id": "659a"
+    }
+  ],
+  "fines": [
+    {
+      "name": "Jean Pierre",
+      "date": "12/11/2025",
+      "motif": "Absence",
+      "amount": 3000,
+      "status": "En Retard",
+      "id": "9e19"
+    },
+    {
+      "name": "Jean de Dieu",
+      "date": "12/11/2025",
+      "motif": "Retard",
+      "amount": 300,
+      "status": "En attente",
+      "id": "33eb"
+    },
+    {
+      "name": "Jean Jaque",
+      "date": "12/08/2025",
+      "motif": "Absence",
+      "amount": 1000,
+      "status": "Payé",
+      "id": "ffad"
+    },
+    {
+      "id": "994b",
+      "amount": 1000,
+      "date": "10/25/2026",
+      "status": "Payé",
+      "name": "Kamikazi Diella",
+      "motif": "Absence"
+    },
+    {
+      "id": "d8b8",
+      "amount": 300,
+      "date": "20/12/2026",
+      "status": "Payé",
+      "name": "Mugisha Arlene",
+      "motif": "Retard"
+    }
+  ],
+  "members": [
+    {
+      "id": "1",
+      "name": "Nkurunziza Josephine",
+      "cni": "152/52251",
+      "email": "nkuru@gmail.com",
+      "tel": "71345077",
+      "gender": "F",
+      "age": 35,
+      "famSize": 5,
+      "status": "Active",
+      "handcap": "false",
+      "group": "Inkerebutsi"
+    },
+    {
+      "id": "2",
+      "name": "Kamikazi Diella",
+      "email": "nkuru@gmail.com",
+      "tel": "71345077",
+      "cni": "152/52252",
+      "gender": "F",
+      "age": 48,
+      "famSize": 5,
+      "status": "Active",
+      "handcap": "false",
+      "group": "Inkerebutsi"
+    },
+    {
+      "id": "3",
+      "name": "Mugisha Arlene",
+      "email": "nkuru@gmail.com",
+      "tel": "71345077",
+      "cni": "152/52253",
+      "gender": "F",
+      "age": 58,
+      "famSize": 5,
+      "status": "Inactive",
+      "handcap": "false",
+      "group": "Inkerebutsi"
+    },
+    {
+      "id": "4",
+      "name": "Jean Bernard",
+      "email": "nkuru@gmail.com",
+      "tel": "71345077",
+      "cni": "152/52254",
+      "gender": "H",
+      "age": 38,
+      "famSize": 5,
+      "status": "Active",
+      "handcap": "false",
+      "group": "Inkerebutsi"
+    },
+    {
+      "id": "5",
+      "name": "Jean Berchmas",
+      "email": "nkuru@gmail.com",
+      "tel": "71345077",
+      "cni": "152/52255",
+      "gender": "H",
+      "age": 41,
+      "famSize": 5,
+      "status": "Active",
+      "handcap": "false",
+      "group": "Inkerebutsi"
+    },
+    {
+      "id": "6",
+      "name": "Jean Jaque",
+      "email": "nkuru@gmail.com",
+      "tel": "71345077",
+      "cni": "152/52256",
+      "gender": "H",
+      "age": 45,
+      "famSize": 5,
+      "status": "Active",
+      "handcap": "false",
+      "group": "Inkerebutsi"
+    },
+    {
+      "id": "7",
+      "name": "Jean de Dieu",
+      "email": "nkuru@gmail.com",
+      "tel": "71345077",
+      "cni": "152/52257",
+      "gender": "H",
+      "age": 40,
+      "famSize": 5,
+      "status": "Active",
+      "handcap": "illness",
+      "group": "Abahizi"
+    },
+    {
+      "id": "8",
+      "name": "Jean Pierre",
+      "email": "nkuru@gmail.com",
+      "tel": "71345077",
+      "cni": "152/52258",
+      "gender": "F",
+      "age": 38,
+      "famSize": 5,
+      "status": "Active",
+      "handcap": "false",
+      "group": "Inkerebutsi"
+    },
+    {
+      "id": "e4e8",
+      "name": "Igiraneza Gladis ",
+      "cni": "125/1565.12.55",
+      "email": "gaga@gmail.com",
+      "tel": "78945215",
+      "gender": "F",
+      "age": "45",
+      "famSize": 10,
+      "handcap": "handcap",
+      "group": "Abahizi",
+      "status": "Active"
+    },
+    {
+      "id": "0ac4",
+      "name": "Irakiza Laurette",
+      "cni": "4545/454.2515",
+      "email": "ira@gmail.com",
+      "tel": "78522223",
+      "gender": "F",
+      "age": 35,
+      "famSize": 5,
+      "handcap": "false",
+      "group": "Abanyamwete",
+      "status": "Inactive"
+    }
+  ],
+  "emFunds": [
+    {
+      "owner": "Jean Pierre",
+      "date": "15/06/2025",
+      "amount": 2000,
+      "id": "bcb8",
+      "status": "En attente"
+    },
+    {
+      "owner": "Kamikazi Diella",
+      "date": "15/06/2025",
+      "amount": 2000,
+      "id": "43d1",
+      "status": "Confirmé"
+    },
+    {
+      "owner": "Jean Bernard",
+      "date": "15/06/2025",
+      "amount": 2000,
+      "id": "f124",
+      "status": "Confirmé"
+    },
+    {
+      "owner": "Mugisha Arlene",
+      "date": "15/06/2025",
+      "amount": 2000,
+      "id": "8eb7",
+      "status": "Confirmé"
+    },
+    {
+      "owner": "Nkurunziza Josephine",
+      "date": "15/06/2025",
+      "amount": 2000,
+      "id": "106c",
+      "status": "Confirmé"
+    },
+    {
+      "owner": "Jean Berchmas",
+      "date": "15/06/2025",
+      "amount": 2000,
+      "id": "bc32",
+      "status": "Confirmé"
+    }
+  ],
+  "emExpenses": [
+    {
+      "name": "Jean Pierre",
+      "date": "12/11/2025",
+      "motif": "Malade",
+      "amount": 30000,
+      "status": "paid",
+      "id": "3f03"
+    },
+    {
+      "name": "Jean de Dieu",
+      "date": "12/11/2025",
+      "motif": "Funeraille",
+      "amount": 20000,
+      "status": "pending",
+      "id": "cdf7"
+    },
+    {
+      "name": "Jean Jaque",
+      "date": "12/08/2025",
+      "motif": "Accident ",
+      "amount": 50000,
+      "status": "paid",
+      "id": "453d"
+    },
+    {
+      "id": "6a12",
+      "amount": 552,
+      "date": "6464",
+      "status": "Débloqué",
+      "name": "Kamikazi Diella",
+      "motif": "Agriculture"
+    },
+    {
+      "id": "6c18",
+      "amount": 1000,
+      "date": "213",
+      "status": "Débloqué",
+      "name": "Mugisha Arlene",
+      "motif": "CommerceN"
+    },
+    {
+      "id": "1247",
+      "amount": 20000,
+      "date": "2123",
+      "status": "Débloqué",
+      "name": "Mugisha Arlene",
+      "motif": "CommerceN"
+    }
+  ],
+  "Shares": [
+    {
+      "owner": "Jean Pierre",
+      "date": "15/06/2025",
+      "amount": 50000,
+      "id": "f31d"
+    },
+    {
+      "owner": "Kamikazi Diella",
+      "date": "15/06/2025",
+      "amount": 300000,
+      "id": "db24"
+    },
+    {
+      "owner": "Jean Bernard",
+      "date": "15/06/2025",
+      "amount": 30000,
+      "id": "415e"
+    },
+    {
+      "owner": "Mugisha Arlene",
+      "date": "15/06/2025",
+      "amount": 250000,
+      "id": "ed3f"
+    },
+    {
+      "owner": "Nkurunziza Josephine",
+      "date": "15/06/2025",
+      "amount": 50000,
+      "id": "787c"
+    },
+    {
+      "owner": "Jean Berchmas",
+      "date": "15/06/2025",
+      "amount": 100000,
+      "id": "74d5"
+    }
+  ]
+}
