@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66d818f68f43b3f1f123cdb9"
+  },
+  "prodID": "24554",
+  "name": "rice",
+  "code": "tz",
+  "category": "cereale",
+  "arrivalDate": "2024/08/09",
+  "expiryDate": "2027/08/09",
+  "sellprice": 5000,
+  "originalPrice": 4000,
+  "qty": 1000,
+  "leftQty": 1000,
+  "supplier": "Dany"
+},
+{
+  "_id": {
+    "$oid": "66d81bd18f43b3f1f123cdba"
+  },
+  "prodID": "24554",
+  "name": "Beans",
+  "code": "yellow",
+  "category": "cereale",
+  "arrivalDate": "2024/08/09",
+  "expiryDate": "2027/08/09",
+  "sellprice": 5000,
+  "originalPrice": 4000,
+  "qty": 1000,
+  "leftQty": 1000,
+  "supplier": "Chris"
+}]

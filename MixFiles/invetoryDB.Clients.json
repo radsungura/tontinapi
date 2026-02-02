@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66d8178b8f43b3f1f123cdae"
+  },
+  "name": "Chris Nkami",
+  "contact": "71958228",
+  "address": "Gihosha, Buja , Burundi"
+},
+{
+  "_id": {
+    "$oid": "66d818128f43b3f1f123cdb0"
+  },
+  "name": "Axel Arakaza",
+  "contact": "71958228",
+  "address": "Gihosha, Buja , Burundi"
+},
+{
+  "_id": {
+    "$oid": "66d818318f43b3f1f123cdb1"
+  },
+  "name": "Dany Kwizera",
+  "contact": "71958228",
+  "address": "Gihosha, Buja , Burundi"
+}]

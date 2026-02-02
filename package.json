@@ -1,0 +1,20 @@
+{
+  "name": "tontine",
+  "version": "1.0.0",
+  "description": "Kirimba api",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rad",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.6.1",
+    "nodemon": "^3.1.4"
+  }
+}

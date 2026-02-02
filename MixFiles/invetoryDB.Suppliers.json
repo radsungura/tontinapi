@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "66d818598f43b3f1f123cdb6"
+  },
+  "name": "Debobo Ishimwe",
+  "contact": "71958228",
+  "address": "Gihosha, Buja , Burundi"
+},
+{
+  "_id": {
+    "$oid": "66d818738f43b3f1f123cdb7"
+  },
+  "name": "Dorcas Ingabire",
+  "contact": "71958228",
+  "address": "Gihosha, Buja , Burundi"
+}]
