@@ -35,7 +35,7 @@ router.post('/credits', async (req, res) => {
 router.put('/credits/:id', async (req, res) => {
   const db = req.db;
   const collection = db.collection('credits');
-  const result = await collection.updateOne({ _id: new ObjectId(req.params.id) },);
+  const result = await collection.updateOne({ _id: new ObjectId(req.params.id) },{ $set: req.body });
   res.status(200).json(result);
   console.log("set data", req.body);
 
