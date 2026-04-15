@@ -31,16 +31,8 @@ app.use((req, res, next) => {
 });
 
 // Routes
-app.use("/", require("./router/groups"));
-app.use("/", require("./router/members"));
-app.use("/", require("./router/credits"));
-app.use("/", require("./router/refunds"));
-app.use("/", require("./router/savings"));
-app.use("/", require("./router/fines"));
-app.use("/", require("./router/emfunds"));
-app.use("/", require("./router/emexpenses"));
-app.use("/", require("./router/shares"));
-
+app.use("/", require("./router/places"));
+app.use("/", require("./router/providers"));
 
 // Start server AFTER Mongo connects
 connectToMongo()
